@@ -7,7 +7,7 @@ const ListedWishList = () => {
         console.log(wishList, "bookContext") 
          if(wishList.length ===0){
             return <div className='h-[50vh] bg-gray-100 flex items-center justify-center'>
-                <h2 className='font-bold text-3xl'>No Wish list data found</h2>
+                <h2 className='font-bold text-3xl'>No Wish list data found haha!!</h2>
             </div>
         }
     return (
