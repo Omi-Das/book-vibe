@@ -18,7 +18,7 @@ const BookProvider = ({children}) => {
         )
     
         if(isExistBook){
-            toast.error("The book is already exist")
+            toast.error("The book is already exist!!")
         }
     
         else{
